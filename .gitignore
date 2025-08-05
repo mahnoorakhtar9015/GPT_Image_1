@@ -1,0 +1,26 @@
+# Python virtual environments
+gpt_venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment config
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+*.swp
+
+# Logs and outputs
+*.log
+*.csv
+*.json
+
+# Generated images and folders
+generated_banners/
