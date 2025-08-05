@@ -18,9 +18,13 @@ It supports prompt tuning (style, tone, background) and saves base64-generated i
 
 ## 📁 Folder Structure
 ├── generate_banners.ipynb # Main notebook
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project overview
+
 ├── generated_banners/ # Saved image outputs
+
 └── .env # API keys and config 
 
 
